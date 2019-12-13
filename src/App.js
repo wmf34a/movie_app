@@ -12,7 +12,7 @@ class App extends Component {
 
 	componentDidMount(){
 			this._getMovies();
-		console.log(1);
+		console.log(4);
 	}
 	
 	_renderMovies = () => {
